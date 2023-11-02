@@ -1,0 +1,11 @@
+torch==2.0.1
+udicOpenData~=2.4
+gensim~=4.3.2
+requests~=2.31.0
+fastapi~=0.103.1
+beautifulsoup4~=4.12.2
+pandas-2.0.3
+pandas~=2.0.3
+selenium~=4.15.0
+emoji~=2.8.0
+uvicorn~=0.23.2
