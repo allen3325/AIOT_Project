@@ -31,3 +31,4 @@ archive.zip
 
 *.csv
 model/
+craw_data/
