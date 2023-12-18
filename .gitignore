@@ -32,3 +32,5 @@ archive.zip
 *.csv
 model/
 craw_data/
+model.zip
+.env
